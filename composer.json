@@ -1,0 +1,42 @@
+{
+    "name": "billdog/billdogeng",
+    "description": "Official BilldogEng server SDK for PHP — Analytics, Feature Flags (remote + local eval), Surveys, Messaging, and LLM observability.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://billdog.io",
+    "keywords": [
+        "billdog",
+        "billdogeng",
+        "analytics",
+        "feature-flags",
+        "surveys",
+        "messaging",
+        "llm",
+        "server-sdk"
+    ],
+    "authors": [
+        {
+            "name": "BillDog"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BillDogEng\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BillDogEng\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
