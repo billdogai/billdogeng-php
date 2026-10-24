@@ -15,7 +15,7 @@ wire contract and method surface are identical so the cross-language parity corp
 ## Install
 
 ```bash
-composer require billdog/billdogeng:1.1.1-beta.3
+composer require billdog/billdogeng:1.1.1-beta.4
 ```
 
 ## Quickstart
