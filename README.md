@@ -19,7 +19,7 @@ Full guide: [billdog.io/docs/server-sdk](https://billdog.io/docs/server-sdk).
 ## Install
 
 ```bash
-composer require billdog/billdogeng:1.1.1-beta.5
+composer require billdog/billdogeng:1.1.2-beta.5
 ```
 
 ## Quickstart

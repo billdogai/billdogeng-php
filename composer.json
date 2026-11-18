@@ -4,6 +4,11 @@
     "type": "library",
     "license": "MIT",
     "homepage": "https://billdog.io",
+    "support": {
+        "source": "https://github.com/billdogai/billdogeng-php",
+        "issues": "https://github.com/billdogai/billdogeng-php/issues",
+        "docs": "https://billdog.io/docs/server-sdk"
+    },
     "keywords": [
         "billdog",
         "billdogeng",
